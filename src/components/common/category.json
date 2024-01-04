@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_common_categories",
+  "info": {
+    "displayName": "Category",
+    "icon": "folder",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Category": {
+      "type": "enumeration",
+      "enum": [
+        "Hot Chocolate",
+        "Coffee",
+        "Cold Drinks",
+        "Sweat Items",
+        "Savoury Items"
+      ],
+      "required": true
+    }
+  }
+}

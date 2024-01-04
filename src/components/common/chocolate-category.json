@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_common_chocolate_categories",
+  "info": {
+    "displayName": "Chocolate-Category"
+  },
+  "options": {},
+  "attributes": {
+    "ChocolateCategory": {
+      "type": "enumeration",
+      "enum": [
+        "Dark",
+        "Milk",
+        "White"
+      ]
+    }
+  }
+}
